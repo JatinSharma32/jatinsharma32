@@ -9,8 +9,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30px">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30px"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="30px">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="30px">
 <img src="https://img.icons8.com/color/512/nodejs.png" height="30px">
 <img src="https://img.icons8.com/ios/512/express-js.png" height="30px">
