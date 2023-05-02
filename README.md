@@ -1,5 +1,6 @@
 ![img](Jatin%20Sharma.png)
 
+## _Hi There! 😀_
 <p style="text-align: center;font-family:Arial">I am a Node/Express JS backend developer💻 based in India, with a passion for Astronomy🌌. With 3 months of experience in web development.
 
 I am pursuing Bechlors🎓 in Computer Application with an 8.75 GPA. I am constantly seeking out new challenges and opportunities to grow my expertise and make a meaningful impact in Open source.😀
@@ -22,9 +23,11 @@ I am always open to new opportunities and collaborations🤝, so feel free to co
 
 
 
-## Github Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JatinSharma32&theme=tokyonight&show_icons=true&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinSharma32&theme=tokyonight&layout=compact&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats)
+## Github Stats
+  
+| Open Source | TechStack |
+|-------------|-----------|
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JatinSharma32&theme=tokyonight&show_icons=true&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinSharma32&theme=tokyonight&layout=compact&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats) |
   
   
   
